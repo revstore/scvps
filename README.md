@@ -5,8 +5,7 @@
 </code></pre>
 
 ### UPDATE SCRIPT
-<pre><code>
-  wget https://raw.githubusercontent.com/revstore/scvps/main/update.sh && chmod +x update.sh && ./update.sh
+<pre><code>wget https://raw.githubusercontent.com/revstore/scvps/main/update.sh && chmod +x update.sh && ./update.sh
 </code></pre>
 
 ### TESTED ON OS 
